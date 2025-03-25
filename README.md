@@ -40,24 +40,24 @@ We wanted to take on this challenge while also stepping out of our comfort zone.
 - ✅ Enhance accuracy through regex-based keyword extraction, ensuring precise identification of key data points.
 
 ## 🛠️ How We Built It
-🔹 Python – Used for data processing, text extraction, and automation.
-🔹 Google Gemini AI – Powers the intelligent classification of email content.
-🔹 OCR (Optical Character Recognition) – Extracts text from images and scanned documents.
-🔹 Regex (Regular Expressions) – Helps in structured data extraction, such as transaction IDs and key phrases.
-🔹 Email Parsing Libraries – Used to process .eml files and extract relevant content.
+-🔹 Python – Used for data processing, text extraction, and automation.
+-🔹 Google Gemini AI – Powers the intelligent classification of email content.
+-🔹 OCR (Optical Character Recognition) – Extracts text from images and scanned documents.
+-🔹 Regex (Regular Expressions) – Helps in structured data extraction, such as transaction IDs and key phrases.
+-🔹 Email Parsing Libraries – Used to process .eml files and extract relevant content.
 
 ## 🚧 Challenges We Faced
-🚧 Handling Diverse Email Formats – Emails come in various formats (.eml, plain text, HTML), making consistent data extraction tricky.
-🚧 Extracting Text from Inline Images – Many emails include screenshots instead of text, requiring OCR for accurate extraction.
-🚧 Identifying and Masking PII – Ensuring personally identifiable information (PII) was detected and handled securely before processing.
-🚧 Optimizing AI Prompts – Fine-tuning prompts for Google Gemini AI to improve classification accuracy and relevance.
-🚧 Regex Complexity – Crafting regex patterns to extract structured data while minimizing false positives.
-🚧 Exploring a New Tech Stack – Coming from a Dynamics 365 background, learning and implementing Python, OCR, and AI models was a challenge, but it was an exciting opportunity to work with cutting-edge technologies.
+- 🚧 Handling Diverse Email Formats – Emails come in various formats (.eml, plain text, HTML), making consistent data extraction tricky.
+- 🚧 Extracting Text from Inline Images – Many emails include screenshots instead of text, requiring OCR for accurate extraction.
+- 🚧 Identifying and Masking PII – Ensuring personally identifiable information (PII) was detected and handled securely before processing.
+- 🚧 Optimizing AI Prompts – Fine-tuning prompts for Google Gemini AI to improve classification accuracy and relevance.
+- 🚧 Regex Complexity – Crafting regex patterns to extract structured data while minimizing false positives.
+- 🚧 Exploring a New Tech Stack – Coming from a Dynamics 365 background, learning and implementing Python, OCR, and AI models was a challenge, but it was an exciting opportunity to work with cutting-edge technologies.
 
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone [https://github.com/your-repo.git](https://github.com/ewfx/gaied-ai-explorers)
    ```
 2. Install dependencies  
    ```sh
