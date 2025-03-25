@@ -33,11 +33,11 @@ With the increasing reliance on AI for email processing and classification, we n
 We wanted to take on this challenge while also stepping out of our comfort zone. Coming from a Dynamics 365 background, we’ve been hearing so much buzz about Python, and this project felt like the perfect opportunity to explore cutting-edge technologies. By leveraging Python, we aimed to build a smart, efficient, and privacy-conscious solution that can help organizations safely process and classify emails without compromising sensitive data.
 
 ## ⚙️ What It Does
-✅ Extract text from email bodies, PDFs, images, and text files for deeper analysis.
-✅ Analyze structured data, including transaction IDs, dates, and financial details, to derive meaningful insights.
-✅ Classify emails using Google Gemini AI for smart and efficient categorization.
-✅ Process inline images with OCR to capture critical details often embedded in screenshots.
-✅ Enhance accuracy through regex-based keyword extraction, ensuring precise identification of key data points.
+- ✅ Extract text from email bodies, PDFs, images, and text files for deeper analysis.
+- ✅ Analyze structured data, including transaction IDs, dates, and financial details, to derive meaningful insights.
+- ✅ Classify emails using Google Gemini AI for smart and efficient categorization.
+- ✅ Process inline images with OCR to capture critical details often embedded in screenshots.
+- ✅ Enhance accuracy through regex-based keyword extraction, ensuring precise identification of key data points.
 
 ## 🛠️ How We Built It
 🔹 Python – Used for data processing, text extraction, and automation.
