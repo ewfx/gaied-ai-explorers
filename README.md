@@ -41,11 +41,11 @@ We wanted to take on this challenge while also stepping out of our comfort zone.
 - ✅ Enhance accuracy through regex-based keyword extraction, ensuring precise identification of key data points.
 
 ## 🛠️ How We Built It
--🔹 Python – Used for data processing, text extraction, and automation.
--🔹 Google Gemini AI – Powers the intelligent classification of email content.
--🔹 OCR (Optical Character Recognition) – Extracts text from images and scanned documents.
--🔹 Regex (Regular Expressions) – Helps in structured data extraction, such as transaction IDs and key phrases.
--🔹 Email Parsing Libraries – Used to process .eml files and extract relevant content.
+- Python – Used for data processing, text extraction, and automation.
+- Google Gemini AI – Classifies the content received with the help of a prompt.
+- OCR (Optical Character Recognition) – Extracts text from images and scanned documents.
+- Regex (Regular Expressions) – Helps in structured data extraction, such as transaction IDs and key phrases.
+- Email Parsing Libraries – Used to process .eml files and extract relevant content.
 
 ## 🚧 Challenges We Faced
 - 🚧 Handling Diverse Email Formats – Emails come in various formats (.eml, plain text, HTML), making consistent data extraction tricky.
