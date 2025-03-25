@@ -22,10 +22,11 @@ This solution is particularly useful for organizations handling large volumes of
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
-📹 [[Video Demo](https://github.com/ewfx/gaied-ai-explorers/blob/main/artifacts/demo/Email%20Extraction.mp4)] (if applicable)  
+📹 [Video Demo](https://github.com/ewfx/gaied-ai-explorers/blob/main/artifacts/demo/Email%20Extraction.mp4)
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![Screenshot 1](https://github.com/ewfx/gaied-ai-explorers/blob/main/artifacts/demo/Email%20Classifier%20Screenshot-1.png)
+![Screenshot 2](https://github.com/ewfx/gaied-ai-explorers/blob/main/artifacts/demo/Email%20Classifier%20Screenshot-2.png)
 
 ## 💡 Inspiration
 With the increasing reliance on AI for email processing and classification, we noticed a major challenge—how to ensure sensitive information, like PII, is handled securely before being fed into large language models. Many organizations struggle with balancing AI automation and data privacy, especially when dealing with high volumes of emails containing confidential details.
