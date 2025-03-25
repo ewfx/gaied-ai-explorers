@@ -14,7 +14,11 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+In today's digital world, emails contain a wealth of sensitive information, including personally identifiable information (PII) and confidential data. Ensuring the safe processing of such emails before leveraging AI models is crucial to maintaining privacy and compliance.
+
+This project is designed to intelligently analyze email content, identify and redact PII or sensitive data, and then process the refined content using Gemini AI for classification. By doing so, we aim to enhance security, ensure data privacy, and leverage AI for insightful email categorization without exposing sensitive details.
+
+This solution is particularly useful for organizations handling large volumes of emails, ensuring that AI models receive only sanitized data while maintaining the integrity and intent of the content.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
