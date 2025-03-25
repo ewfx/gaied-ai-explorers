@@ -23,7 +23,7 @@ This solution is particularly useful for organizations handling large volumes of
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](https://github.com/ewfx/gaied-ai-explorers/blob/main/artifacts/demo/Email%20Extraction.mp4)
-🖼️ Screenshots:
+- 🖼️ Screenshots:
 
 ![Screenshot 1](https://github.com/ewfx/gaied-ai-explorers/blob/main/artifacts/demo/Email%20Classifier%20Screenshot-1.png)
 ![Screenshot 2](https://github.com/ewfx/gaied-ai-explorers/blob/main/artifacts/demo/Email%20Classifier%20Screenshot-2.png)
