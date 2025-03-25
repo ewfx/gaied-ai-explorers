@@ -1,15 +1,15 @@
 # 🚀 Project Name
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Inspiration](#inspiration)
-- [What It Does](#what-it-does)
-- [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
-- [How to Run](#how-to-run)
-- [Tech Stack](#tech-stack)
-- [Team](#team)
+- [Introduction](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#-introduction)
+- [Demo](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#-demo)
+- [Inspiration](https://github.com/ewfx/gaied-ai-explorers/blob/main/README.md#-inspiration)
+- [What It Does](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#%EF%B8%8F-what-it-does)
+- [How We Built It](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#%EF%B8%8F-how-we-built-it)
+- [Challenges We Faced](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#-challenges-we-faced)
+- [How to Run](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#-how-to-run)
+- [Tech Stack](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#%EF%B8%8F-tech-stack)
+- [Team](https://github.com/ewfx/gaied-ai-explorers?tab=readme-ov-file#-team)
 
 ---
 
@@ -76,5 +76,6 @@ We wanted to take on this challenge while also stepping out of our comfort zone.
 - Other: Google Gemini AI / Tesseract OCR / RegEx
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Naresh Cheekati** - [GitHub](https://github.com/nareshcheekati-c) | [LinkedIn](https://www.linkedin.com/in/naresh-c-551a6780/)
+- **Sri Harsha Cheekati** - [GitHub](https://github.com/Sreeharsha227) | [LinkedIn](https://www.linkedin.com/in/sreeharsha-reddy/)
+- **Sai Krishna Gudluru** - [GitHub](https://github.com/saikrishnasgit) | [LinkedIn](https://www.linkedin.com/in/gudluru/)
